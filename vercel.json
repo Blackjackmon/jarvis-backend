@@ -1,9 +1,4 @@
 {
   "buildCommand": "exit 0",
-  "framework": null,
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  "framework": null
 }
